@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm **David Ladipo**!
 I'm a React Developer with 1year+ of experience building web applications. I love working on projects that challenge me to learn new things and improve my skills.
 
 ## 🔭 What I'm currently working on
